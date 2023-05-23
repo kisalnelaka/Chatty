@@ -1,6 +1,6 @@
 # Chatty
-A realtime chat app using PHP and WebSocket for communication, and integrating OpenAI's GPT-3 API for generating responses. 
-Real-time Chat Application with GPT-3 Integration Documentation
+# A realtime chat app using PHP and WebSocket for communication, and integrating OpenAI's GPT-3 API for generating responses. 
+# Real-time Chat Application with GPT-3 Integration Documentation
 Overview
 This document provides technical details and guidelines for developing a real-time chat application that incorporates a PHP WebSocket server for communication and integrates with OpenAI's GPT-3 API for generating responses. The application allows users to engage in real-time conversations with the assistance of GPT-3's natural language processing capabilities.
 
